@@ -2,7 +2,7 @@
     <a name="Top"></a>
 	<h1>Navigation-Debug：导航定位程序编译调试经验</h1>
     <p><strong>记录一些导航程序编译调试过程中遇到的问题，和我找到的解决方案，以后遇到啥问题了，都来记录一下</strong></p>
-    <p><strong>如果针对我提出的问题，您有更好的解决方案，欢迎提 Issue 分享!</strong></p>
+    <p><strong>如果针对我提出的问题，您有更好的解决方案，欢迎提 Issue 分享！</strong></p>
 </div>
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/QQ-1482275402-red">
