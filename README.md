@@ -77,7 +77,7 @@
 ### 004-Windows 下打开（尤其是C++写的）软件显示缺少 “xxx.dll” 文件
 
 > * “dll” 是Dynamic Link Library（动态链接库）的缩写，静态库在编译链接的时候就要引入，而动态库在程序执行的时候才引入，常用于存储可由多个程序共享的函数或数据；
-> * 打开程序报错缺少的 “xxx.dll” 文件一般是系统自带或者常用程序的动态链接库，可以去 dll 网站（比如：找dll）下载缺失的 .dll 文件，放到 `C:\Windows\SysWOW64` 或 `C:\Windows\System32` 目录下面。
+> * 打开程序报错缺少的 “xxx.dll” 文件一般是系统自带或者常用程序的动态链接库，可以去 dll 网站（比如：[找dll](https://www.zhaodll.com/)）下载缺失的 .dll 文件，放到 `C:\Windows\SysWOW64` 或 `C:\Windows\System32` 目录下面。
 
 ---
 
